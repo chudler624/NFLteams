@@ -1,0 +1,5 @@
+C:\Users\chudl\Desktop\repos\Teams\Teams\Teams\obj\Debug\net6.0\Teams.csproj.AssemblyReference.cache
+C:\Users\chudl\Desktop\repos\Teams\Teams\Teams\obj\Debug\net6.0\Teams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chudl\Desktop\repos\Teams\Teams\Teams\obj\Debug\net6.0\Teams.AssemblyInfoInputs.cache
+C:\Users\chudl\Desktop\repos\Teams\Teams\Teams\obj\Debug\net6.0\Teams.AssemblyInfo.cs
+C:\Users\chudl\Desktop\repos\Teams\Teams\Teams\obj\Debug\net6.0\Teams.csproj.CoreCompileInputs.cache
